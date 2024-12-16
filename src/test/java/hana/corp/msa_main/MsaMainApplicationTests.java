@@ -8,6 +8,7 @@ class MsaMainApplicationTests {
 
     @Test
     void contextLoads() {
+        /**test*/
     }
 
 }
